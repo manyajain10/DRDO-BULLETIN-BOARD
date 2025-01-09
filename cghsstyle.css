@@ -1,0 +1,50 @@
+.header{
+    height: 75px;
+    background-color: cyan;
+    display: inline-block;
+    font-size: xx-large;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    display: flex;
+    align-items: center;
+}
+img{
+    margin-right: 350px;
+    background-blend-mode: lighten;
+}
+input{
+    align-self: flex-start;
+    margin-left: 300px;
+}
+button{
+    align-self: flex-start;
+}
+#home{
+    text-align: right;
+    font-size: x-large;
+}
+#heading{
+    font-size: xx-large;
+    font-family:Verdana, Geneva, Tahoma, sans-serif
+}
+.outer{
+    border: 5px solid black;
+    height: 505px;
+}
+.inner{
+    height: 62px;
+    border-bottom: 1px solid black;
+}
+#eight{
+    border: none;
+}
+a{
+    color: black;
+    display: inline;
+}
+pre{
+    text-align: right;
+    margin: 0;
+}
+footer{
+    text-align: center;
+}
